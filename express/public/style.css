@@ -1,0 +1,20 @@
+* {
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+  color: blue;
+  text-decoration: underline;
+}
+p {
+  text-align: center;
+  color: brown;
+}
+img {
+  height: 200px;
+  align-items: center;
+}
+img:hover {
+  justify-self: center;
+  cursor: pointer;
+}
