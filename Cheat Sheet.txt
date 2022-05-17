@@ -12,3 +12,14 @@
 5. git commit -m "First commit"
 6. git remote add origin "copy HTTP code from github account from your remote repository"
 7. git push -u origin master
+
+
+Angular installation
+npm install -g @angular/cli
+ng new first-app
+ng serve
+
+
+Express
+npm install express
+npm install -g nodemon --save-dev
