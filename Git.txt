@@ -1,0 +1,14 @@
+-open git in your desktop and give a path of your folder which you want to add.
+-write following steps on git CMD
+
+ -git config --global user.name "user"
+ -git config --global user.email user@gmail.com
+
+
+1. git init
+2. git clone
+3. git status
+4. git add .
+5. git commit -m "First commit"
+6. git remote add origin "copy HTTP code from github account from your remote repository"
+7. git push -u origin master
